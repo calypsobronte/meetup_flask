@@ -17,11 +17,19 @@
 ## Slides del Meetup
 - https://slides.com/calypsobronte/flask/fullscreen/
 
+## Licencia
+[MIT]
 
-
+## Autor
+- Lina María Montaño Ramírez
+    - Twitter: [@calypsobronte]
+    - Github: [@calypsobronte]
 
 
 
 <!-- Links -->
 [Pyladies La Paz]: https://www.meetup.com/La-Paz-PyLadies-Meetup/events/270345462/
 [Python]: https://www.python.org/downloads/
+[MIT]: https://github.com/calypsobronte/meetup_flask/blob/master/LICENSE
+[@calypsobronte]: https://twitter.com/calypsobronte
+[@calypsobronte]: https://github.com/calypsobronte
